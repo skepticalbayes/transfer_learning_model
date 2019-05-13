@@ -1,6 +1,8 @@
 # transfer_learning_model
 A deep 12 layered encoder which produces contextual embeddings and hugely improves scalability/ease of modelling and performance on multitude natural language tasks.
 
+
+![alt text](https://github.com/brightmart/text_classification/blob/master/images/TextCNN.JPG)
 ## Introduction
 
 This encoder is a Bidirectional Encoder using
