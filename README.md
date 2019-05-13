@@ -121,7 +121,7 @@ We are releasing the following:
 *   TensorFlow code for the the model architecture (which is mostly a standard
     [Transformer](https://arxiv.org/abs/1706.03762) architecture).
 *   TensorFlow code for push-button replication of the most important
-    fine-tuning experiments from the paper, including SQuAD, MultiNLI, and MRPC.
+    fine-tuning experiments from the paper, including classification(code for NER, abstractive summarization will be released as well).
 
 All of the code in this repository works out-of-the-box with CPU, GPU, and Cloud
 TPU.
