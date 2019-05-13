@@ -2,7 +2,7 @@
 A deep 12 layered encoder which produces contextual embeddings and hugely improves scalability/ease of modelling and performance on multitude natural language tasks.
 
 
-![alt text](https://github.com/brightmart/text_classification/blob/master/images/TextCNN.JPG)
+![alt text](https://github.com/skepticalbayes/transfer_learning_model/blob/master/0.png)
 ## Introduction
 
 This encoder is a Bidirectional Encoder using
